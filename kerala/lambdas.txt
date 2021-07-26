@@ -1,0 +1,60 @@
+iteration=0
+slope_dead_simulator = 0.15195304730782055, slope_dead_data = 0.18033000528566534, slope_diff=0.028376957977844786
+lambda_h = 0.345826, lambda_w = 0.318238, lambda_c = 0.335936
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.012493000000000032, lambda_w_diff = -0.01509499999999997, lambda_c_diff = 0.002601999999999993
+iteration=1
+slope_dead_simulator = 0.15368166972205466, slope_dead_data = 0.18033000528566534, slope_diff=0.02664833556361068
+lambda_h = 0.345296, lambda_w = 0.320391, lambda_c = 0.334314
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.011963000000000001, lambda_w_diff = -0.012942000000000009, lambda_c_diff = 0.0009799999999999809
+iteration=2
+slope_dead_simulator = 0.17846553749663188, slope_dead_data = 0.18033000528566534, slope_diff=0.0018644677890334582
+lambda_h = 0.344033, lambda_w = 0.321807, lambda_c = 0.33416
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.010699999999999987, lambda_w_diff = -0.01152599999999998, lambda_c_diff = 0.0008259999999999934
+iteration=3
+slope_dead_simulator = 0.17321605039136026, slope_dead_data = 0.18033000528566534, slope_diff=0.00711395489430508
+lambda_h = 0.342975, lambda_w = 0.32058400000000004, lambda_c = 0.336441
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.009641999999999984, lambda_w_diff = -0.012748999999999955, lambda_c_diff = 0.003106999999999971
+iteration=4
+slope_dead_simulator = 0.13270300981023653, slope_dead_data = 0.18033000528566534, slope_diff=0.04762699547542881
+lambda_h = 0.342043, lambda_w = 0.323641, lambda_c = 0.334316
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.008709999999999996, lambda_w_diff = -0.009691999999999978, lambda_c_diff = 0.0009819999999999829
+iteration=5
+slope_dead_simulator = 0.16692131094881765, slope_dead_data = 0.18033000528566534, slope_diff=0.013408694336847687
+lambda_h = 0.342526, lambda_w = 0.322317, lambda_c = 0.33515700000000004
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.009193000000000007, lambda_w_diff = -0.01101599999999997, lambda_c_diff = 0.001823000000000019
+iteration=6
+slope_dead_simulator = 0.1712079506866202, slope_dead_data = 0.18033000528566534, slope_diff=0.009122054599045137
+lambda_h = 0.341414, lambda_w = 0.32252800000000004, lambda_c = 0.336058
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.008081000000000005, lambda_w_diff = -0.010804999999999954, lambda_c_diff = 0.002724000000000004
+iteration=7
+slope_dead_simulator = 0.14285694639527236, slope_dead_data = 0.18033000528566534, slope_diff=0.037473058890392985
+lambda_h = 0.342016, lambda_w = 0.323348, lambda_c = 0.334636
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.008682999999999996, lambda_w_diff = -0.009984999999999966, lambda_c_diff = 0.0013019999999999698
+iteration=8
+slope_dead_simulator = 0.1403382879922878, slope_dead_data = 0.18033000528566534, slope_diff=0.03999171729337753
+lambda_h = 0.341322, lambda_w = 0.32345, lambda_c = 0.335228
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.007989000000000024, lambda_w_diff = -0.009882999999999975, lambda_c_diff = 0.0018940000000000068
+iteration=9
+slope_dead_simulator = 0.16316103672322296, slope_dead_data = 0.18033000528566534, slope_diff=0.017168968562442377
+lambda_h = 0.340965, lambda_w = 0.323162, lambda_c = 0.335873
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.007632000000000028, lambda_w_diff = -0.010170999999999986, lambda_c_diff = 0.002538999999999958
+iteration=10
+slope_dead_simulator = 0.139141406247085, slope_dead_data = 0.18033000528566534, slope_diff=0.041188599038580354
+lambda_h = 0.34087, lambda_w = 0.324278, lambda_c = 0.334853
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.007537000000000016, lambda_w_diff = -0.00905499999999998, lambda_c_diff = 0.0015189999999999926
+iteration=11
+slope_dead_simulator = 0.18093997714224253, slope_dead_data = 0.18033000528566534, slope_diff=-0.000609971856577185
+lambda_h = 0.340096, lambda_w = 0.324097, lambda_c = 0.335808
+lambda_h_target = 0.333333, lambda_w_target = 0.333333, lambda_c_target = 0.333334
+lambda_h_diff = 0.006763000000000019, lambda_w_diff = -0.009235999999999966, lambda_c_diff = 0.0024739999999999762
